@@ -1,0 +1,30 @@
+/* About Me Page */ 
+
+.navbar-inverse {
+    background-color: #ffffff;
+    border: solid 3px #4aaaa5;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+    color: #ffffff;
+    background-color: #4aaaa5;
+}
+
+.navbar-right {
+    float: right!important;
+    margin-right: 10%;
+}
+
+.navbar-brand {
+	font-size: 25px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: darkgoldenrod;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: darkgoldenrod;
+}
+
+
